@@ -1,2 +1,2 @@
 BuzzFeed Clone Using JavaScript
-![image](https://user-images.githubusercontent.com/74482130/184078816-6666f6cf-931d-40e0-b0fe-02182eeaed2e.png)
+![image](https://user-images.githubusercontent.com/74482130/184080520-c75988f2-e5ac-423f-995b-b9cb4bd52d6d.png)
